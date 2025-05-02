@@ -1,16 +1,3 @@
-DigiFriend
-Aug 2024 - Nov 2024
-DigiFriend is a user-friendly web and mobile platform that provides step-by-step video solutions to common technology problems faced by elderly users and the digitally inexperienced. The system simplifies technology through categorized guidance and personalized support.
-
-
-Key Features:
-
-Domain-Specific Help: Covers areas like WhatsApp, phone settings, gallery usage, and online bookings.
-
-Video-Based Solutions: Delivers clear, accessible video tutorials for common tech challenges.
-
-User Authentication: Supports secure login with email, username, and password.
-
-Personalized Interface: Tailored UI/UX for elderly users, emphasizing clarity and ease of navigation.
-
-Admin Dashboard: Allows content management and usage analytics tracking.
+Movie Sales Analysis Dashboard
+Oct 2024 - Oct 2024
+The Power BI dashboards use a variety of visuals to present insights effectively. The first dashboard features KPI cards and gauge visuals to highlight key metrics, along with stacked bar charts to show genre-wise revenue trends over time. A line chart illustrates the change in international sales percentage, while a scatter plot displays the relationship between total sales and profit. A table visual lists the top 10 profitable movies with sorting and totals. The second dashboard incorporates donut charts to represent genre-wise revenue distribution and line charts to show average budget trends across years. A matrix visual presents genre-wise profit, budget, and sales. The dashboards also use slicers and a budget slider for interactive filtering based on year, genre, rating, and distributor, enhancing user exploration and dynamic analysis.
